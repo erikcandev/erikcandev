@@ -64,33 +64,32 @@
 
 ---
 
-## **SUMMONER PROFILE** // *Full-Stack Developer & Code Architect*
+## *Full-Stack Developer*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  SUMMONER NAME: Domingos                                         ║
-║  CURRENT RANK: Challenger Developer                              ║
-║  MAIN ROLE: Full-Stack Carry                                     ║
+║  NAME: Erik Domingos                                             ║
+║  FUNÇÃO PREFERIDA: Full-Stack                                    ║
 ║  SECONDARY: System Architecture Support                          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Bem-vindo ao Rift!** Sou um desenvolvedor especializado em **carregar** projetos do early game até a vitória. Minha expertise está em construir **interfaces responsivas** e **arquiteturas escaláveis** que dominam tanto o front quanto o back-end.
+**Bem-vindo ao meu perfil! 
 
 ```yaml
-CURRENT_MATCH: "Desenvolvendo Portfólio"
-LEARNING: "React Avançado e N8N"
-PREFERRED_LANE: "Full-Stack"
-CHAMPION_POOL: "React, Python, TypeScript, Node.js"
+TRABALHO ATUAL: "Desenvolvendo Portfólio"
+APRENDENDO: "React Avançado e N8N"
+PREFERÊNCIA: "Full-Stack"
+ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 ```
 
 ---
 
-## **CHAMPION MASTERY** // *Technology Arsenal*
+##*Tecnologias Usadas*
 
 <div align="center">
 
-### **ADC LANE** // *Frontend Champions*
+###*Frontend Champions*
 <table>
 <tr>
 <td align="center" width="96">
@@ -120,7 +119,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### **JUNGLE** // *Backend Champions*
+### *Backend Champions*
 <table>
 <tr>
 <td align="center" width="96">
@@ -134,7 +133,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### **MID LANE** // *Mobile Champions*
+###*Mobile Champions*
 <table>
 <tr>
 <td align="center" width="96">
@@ -144,7 +143,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### **SUPPORT** // *Tools & Utilities*
+###*Tools & Utilities*
 <table>
 <tr>
 <td align="center" width="96">
@@ -166,15 +165,15 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 
 ---
 
-## **MATCH HISTORY** // *Performance Analytics*
+## *Performance Analytics*
 
 <div align="center">
 
-### **RANKED STATS**
+### **STATS**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Domingos&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
 
-### **CHAMPION MASTERY DISTRIBUTION**
+### **MASTERY DISTRIBUTION**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
@@ -182,7 +181,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 
 ---
 
-## **RIFT ACTIVITY** // *Contribution Map*
+## *Contribution Map*
 
 <div align="center">
 
@@ -192,7 +191,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 
 ---
 
-## **FRIEND LIST** // *Connect & Collaborate*
+## *Connect & Collaborate*
 
 <div align="center">
 
@@ -207,17 +206,12 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════════╗                                                             
 ║                                                                  ║
-║  WELCOME TO THE RIFT                                             ║
-║  CONNECTION ESTABLISHED                                          ║
-║  STATUS: READY FOR RANKED MATCHES                                ║
+║  "Agonia, êxtase, paz. Cada passagem tem uma beleza própria."    ║
 ║                                                                  ║
 ║                                                                  ║
-║  "The key to immortality? Not dying."                            ║
-║                                                                  ║
-║                                                                  ║
-║  - Runeterra Wisdom                                              ║
+║  - Karthus                                                       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -229,5 +223,5 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 ---
 
 <div align="center">
-<sub>Built with <strong>League of Legends</strong> aesthetics | Powered by <strong>Runeterra Magic</strong></sub>
+
 </div>
