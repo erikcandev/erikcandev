@@ -64,32 +64,37 @@
 
 ---
 
-## *Full-Stack Developer*
+## ⚔️ **CHAMPION SELECT** // *Full-Stack Developer*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  NAME: Erik Domingos                                             ║
-║  FUNÇÃO PREFERIDA: Full-Stack                                    ║
-║  SECONDARY: System Architecture Support                          ║
+║  🏷️  SUMMONER NAME: Erik Domingos                                ║
+║  ⚔️  MAIN ROLE: Full-Stack Developer                             ║
+║  🛡️  SECONDARY: System Architecture Support                      ║
+║  🏆  CURRENT RANK: Challenger Developer                          ║
+║  🌟  MASTERY LEVEL: 7                                            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Bem-vindo ao meu perfil!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+**Bem-vindo ao Rift, Invocador!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+
+> *"A morte é como o vento... sempre ao meu lado."* - Yasuo
 
 ```yaml
-TRABALHO ATUAL: "Desenvolvendo Portfólio"
-APRENDENDO: "React Avançado e N8N"
-PREFERÊNCIA: "Full-Stack"
-ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
+🎯 CURRENT_MATCH: "Desenvolvendo Portfólio Épico"
+📚 LEARNING_QUEUE: "React Avançado & N8N Automation"
+🎮 PREFERRED_ROLE: "Full-Stack Carry"
+⚡ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
+🏅 SEASON_GOAL: "Alcançar Grandmaster em Code Quality"
 ```
 
 ---
 
-## *Tecnologias Usadas* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
+## 🏆 **CHAMPION MASTERY** // *Arsenal Tecnológico* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
 
 <div align="center">
 
-### *Frontend*
+### ⚡ **ADC LANE** // *Frontend Champions*
 <table>
 <tr>
 <td align="center" width="96">
@@ -119,7 +124,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### *Backend*
+### 🌲 **JUNGLE** // *Backend Systems*
 <table>
 <tr>
 <td align="center" width="96">
@@ -133,7 +138,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### *Mobile*
+### 🔮 **MID LANE** // *Mobile Development*
 <table>
 <tr>
 <td align="center" width="96">
@@ -143,7 +148,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### *Tools & Utilities*
+### 🛡️ **SUPPORT** // *Tools & Utilities*
 <table>
 <tr>
 <td align="center" width="96">
@@ -165,39 +170,39 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 ---
 
-## *Performance Analytics* <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+## 📊 **RANKED STATS** // *Performance Analytics* <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
 
 <div align="center">
 
-### **STATS**
+### ⭐ **SUMMONER STATS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=erikdomingos&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
 
-### **MASTERY DISTRIBUTION**
+### 🎯 **CHAMPION MASTERY POINTS**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdomingos&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
 </div>
 
 ---
 
-## *Contribution Map* <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+## 🗺️ **RIFT MAP** // *Contribution Activity* <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikdomingos&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## *Connect & Collaborate* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
+## 🤝 **FRIEND LIST** // *Connect & Collaborate* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0F2027&labelColor=C89B3C)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0F2027&labelColor=0596AA)](mailto:seu.email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=0F2027&labelColor=F0E6D2)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=F0E6D2&color=1E2328&labelColor=C89B3C&border_color=C89B3C)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=F0E6D2&color=1E2328&labelColor=0596AA&border_color=0596AA)](mailto:seu.email@exemplo.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=F0E6D2&color=1E2328&labelColor=C89B3C&border_color=C89B3C)](https://seu-portfolio.com)
 
 </div>
 
@@ -205,7 +210,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_18.jpg" width="100%" alt="Yasuo Nightbringer"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -218,7 +223,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=erikdomingos&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=erikcandev&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
 
 </div>
 
