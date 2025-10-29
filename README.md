@@ -74,7 +74,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Bem-vindo ao meu perfil! 
+**Bem-vindo ao meu perfil!** 
 
 ```yaml
 TRABALHO ATUAL: "Desenvolvendo Portfólio"
@@ -85,11 +85,11 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 ---
 
-##*Tecnologias Usadas*
+## *Tecnologias Usadas*
 
 <div align="center">
 
-###*Frontend Champions*
+### *Frontend*
 <table>
 <tr>
 <td align="center" width="96">
@@ -119,7 +119,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-### *Backend Champions*
+### *Backend*
 <table>
 <tr>
 <td align="center" width="96">
@@ -133,7 +133,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-###*Mobile Champions*
+### *Mobile*
 <table>
 <tr>
 <td align="center" width="96">
@@ -143,7 +143,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 </tr>
 </table>
 
-###*Tools & Utilities*
+### *Tools & Utilities*
 <table>
 <tr>
 <td align="center" width="96">
@@ -206,7 +206,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗                                                             
+╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  "Agonia, êxtase, paz. Cada passagem tem uma beleza própria."    ║
 ║                                                                  ║
@@ -216,12 +216,11 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Domingos&color=C89B3C&style=for-the-badge&label=SUMMONER+VISITS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Domingos&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
 
 </div>
 
 ---
 
 <div align="center">
-
 </div>
