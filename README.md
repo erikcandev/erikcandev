@@ -74,7 +74,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Bem-vindo ao meu perfil!** 
+**Bem-vindo ao meu perfil!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
 ```yaml
 TRABALHO ATUAL: "Desenvolvendo Portfólio"
@@ -85,7 +85,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 ---
 
-## *Tecnologias Usadas*
+## *Tecnologias Usadas* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
 
 <div align="center">
 
@@ -165,33 +165,33 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 ---
 
-## *Performance Analytics*
+## *Performance Analytics* <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
 
 <div align="center">
 
 ### **STATS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Domingos&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erikdomingos&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
 
 ### **MASTERY DISTRIBUTION**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikdomingos&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
 </div>
 
 ---
 
-## *Contribution Map*
+## *Contribution Map* <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Domingos&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikdomingos&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## *Connect & Collaborate*
+## *Connect & Collaborate* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
 
 <div align="center">
 
@@ -205,6 +205,8 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -216,7 +218,7 @@ ALGUMAS TECNOLOGIAS: "React, Python, TypeScript, Node.js"
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Domingos&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=erikdomingos&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
 
 </div>
 
