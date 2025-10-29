@@ -1,25 +1,26 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL LEAGUE OF LEGENDS -->
+<!-- BANNER PRINCIPAL THE LAST OF US -->
 <svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="riftGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0F2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203A43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2C5364;stop-opacity:1" />
+    <linearGradient id="apocalypseGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#2d2d2d;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#3d2f1f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a3728;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="goldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#C89B3C;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#F0E6D2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#C89B3C;stop-opacity:1" />
+    <linearGradient id="rustGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B4513;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#CD853F;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D2691E;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0596AA;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1E2328;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0596AA;stop-opacity:1" />
+    <linearGradient id="mossGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#556B2F;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#6B8E23;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9ACD32;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <filter id="weathered">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge> 
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -28,140 +29,141 @@
   </defs>
   
   <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#riftGradient)"/>
+  <rect width="100%" height="100%" fill="url(#apocalypseGradient)"/>
   
-  <!-- Decorative Elements -->
-  <polygon points="0,280 100,250 200,260 300,240 400,250 500,230 600,240 700,220 800,230 900,210 1000,220 1100,200 1200,210 1200,300 0,300" fill="#1E2328" opacity="0.8"/>
+  <!-- Overgrown Buildings -->
+  <polygon points="0,250 80,200 160,180 240,160 320,140 400,120 480,100 560,90 640,85 720,80 800,85 880,90 960,100 1040,120 1120,140 1200,160 1200,300 0,300" fill="#2F4F4F" opacity="0.8"/>
   
-  <!-- Rift Lines -->
-  <line x1="0" y1="80" x2="1200" y2="80" stroke="#C89B3C" stroke-width="2" opacity="0.6"/>
-  <line x1="0" y1="220" x2="1200" y2="220" stroke="#0596AA" stroke-width="2" opacity="0.6"/>
+  <!-- Moss/Fungus Growth -->
+  <circle cx="150" cy="120" r="8" fill="#556B2F" opacity="0.6"/>
+  <circle cx="180" cy="110" r="6" fill="#6B8E23" opacity="0.7"/>
+  <circle cx="350" cy="100" r="10" fill="#556B2F" opacity="0.5"/>
+  <circle cx="550" cy="90" r="7" fill="#9ACD32" opacity="0.6"/>
+  <circle cx="750" cy="95" r="9" fill="#6B8E23" opacity="0.6"/>
+  <circle cx="950" cy="105" r="8" fill="#556B2F" opacity="0.7"/>
   
-  <!-- Decorative Diamonds -->
-  <polygon points="100,50 110,60 100,70 90,60" fill="#C89B3C" opacity="0.7"/>
-  <polygon points="300,40 310,50 300,60 290,50" fill="#0596AA" opacity="0.7"/>
-  <polygon points="500,45 510,55 500,65 490,55" fill="#C89B3C" opacity="0.7"/>
-  <polygon points="700,35 710,45 700,55 690,45" fill="#0596AA" opacity="0.7"/>
-  <polygon points="900,50 910,60 900,70 890,60" fill="#C89B3C" opacity="0.7"/>
-  <polygon points="1100,40 1110,50 1100,60 1090,50" fill="#0596AA" opacity="0.7"/>
+  <!-- Rust Lines -->
+  <line x1="0" y1="80" x2="1200" y2="85" stroke="#8B4513" stroke-width="3" opacity="0.4"/>
+  <line x1="0" y1="220" x2="1200" y2="215" stroke="#D2691E" stroke-width="2" opacity="0.5"/>
   
   <!-- Main Title -->
-  <text x="600" y="130" font-family="'Cinzel', serif" font-size="52" font-weight="bold" text-anchor="middle" fill="url(#goldGlow)" filter="url(#glow)">
-    DOMINGOS
+  <text x="600" y="130" font-family="'Courier New', monospace" font-size="48" font-weight="bold" text-anchor="middle" fill="url(#rustGlow)" filter="url(#weathered)">
+    ERIK DOMINGOS
   </text>
   
   <!-- Subtitle -->
-  <text x="600" y="170" font-family="'Cinzel', serif" font-size="18" text-anchor="middle" fill="#F0E6D2" opacity="0.9">
-    SUMMONER OF CODE
+  <text x="600" y="170" font-family="'Courier New', monospace" font-size="16" text-anchor="middle" fill="#CD853F" opacity="0.9">
+    SURVIVOR • DEVELOPER • BUILDER
   </text>
   
-  <!-- Rank Badge -->
-  <rect x="520" y="190" width="160" height="30" rx="15" fill="#1E2328" stroke="#C89B3C" stroke-width="2"/>
-  <text x="600" y="210" font-family="'Cinzel', serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#C89B3C">
-    CHALLENGER DEVELOPER
+  <!-- Status Badge -->
+  <rect x="480" y="190" width="240" height="30" rx="15" fill="#2F4F4F" stroke="#8B4513" stroke-width="2"/>
+  <text x="600" y="210" font-family="'Courier New', monospace" font-size="12" font-weight="bold" text-anchor="middle" fill="#CD853F">
+    STATUS: IMMUNE • FULL-STACK SURVIVOR
   </text>
 </svg>
 
 ---
 
-## ⚔️ **CHAMPION SELECT** // *Full-Stack Developer*
+## **SURVIVOR PROFILE** // *Post-Apocalyptic Developer*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  🏷️  SUMMONER NAME: Erik Domingos                                ║
-║  ⚔️  MAIN ROLE: Full-Stack Developer                             ║
-║  🛡️  SECONDARY: System Architecture Support                      ║
-║  🏆  CURRENT RANK: Challenger Developer                          ║
-║  🌟  MASTERY LEVEL: 7                                            ║
+║  NAME: Erik Domingos                                             ║
+║  STATUS: Immune Survivor                                         ║
+║  SPECIALIZATION: Full-Stack Development                          ║
+║  SURVIVAL SKILLS: System Architecture & Code Crafting           ║
+║  DAYS SURVIVED: 20+ Years in the Outbreak                       ║
+║  IMMUNITY LEVEL: Resistant to Legacy Code                       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Bem-vindo ao Rift, Invocador!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+**Welcome to the Quarantine Zone, Survivor** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
-> *"A morte é como o vento... sempre ao meu lado."* - Yasuo
+> *"We've got to be strong enough to see this through. All of it."* - Joel Miller
 
 ```yaml
-🎯 CURRENT_MATCH: "Desenvolvendo Portfólio Épico"
-📚 LEARNING_QUEUE: "React Avançado & N8N Automation"
-🎮 PREFERRED_ROLE: "Full-Stack Carry"
-⚡ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
-🏅 SEASON_GOAL: "Alcançar Grandmaster em Code Quality"
+CURRENT_MISSION: "Building Digital Safe Houses"
+SCROUNGING_FOR: "Advanced React Patterns & Automation Tools"
+SURVIVAL_ROLE: "Full-Stack Scavenger"
+RESOURCE_CACHE: "React, Python, TypeScript, Node.js"
+OBJECTIVE: "Establish Secure Development Outposts"
 ```
 
 ---
 
-## 🏆 **CHAMPION MASTERY** // *Arsenal Tecnológico* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/>
+## **SURVIVAL ARSENAL** // *Scavenged Technologies* <img src="https://media.giphy.com/media/3o7TKqnN349PBUtGFO/giphy.gif" width="32px"/>
 
 <div align="center">
 
-### ⚡ **ADC LANE** // *Frontend Champions*
+### **FRONTEND OUTPOST** // *User Interface Fortifications*
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="filter: drop-shadow(0 0 10px #C89B3C);"/>
-<br><span style="color: #C89B3C;"><strong>React</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" style="filter: drop-shadow(0 0 10px #8B4513);"/>
+<br><span style="color: #8B4513;"><strong>React</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
-<br><span style="color: #F0E6D2;"><strong>JavaScript</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="filter: drop-shadow(0 0 10px #CD853F);"/>
+<br><span style="color: #CD853F;"><strong>JavaScript</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" style="filter: drop-shadow(0 0 10px #0596AA);"/>
-<br><span style="color: #0596AA;"><strong>TypeScript</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" style="filter: drop-shadow(0 0 10px #556B2F);"/>
+<br><span style="color: #556B2F;"><strong>TypeScript</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="filter: drop-shadow(0 0 10px #C89B3C);"/>
-<br><span style="color: #C89B3C;"><strong>HTML5</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" style="filter: drop-shadow(0 0 10px #8B4513);"/>
+<br><span style="color: #8B4513;"><strong>HTML5</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="filter: drop-shadow(0 0 10px #0596AA);"/>
-<br><span style="color: #0596AA;"><strong>CSS3</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" style="filter: drop-shadow(0 0 10px #556B2F);"/>
+<br><span style="color: #556B2F;"><strong>CSS3</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
-<br><span style="color: #F0E6D2;"><strong>Tailwind</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" style="filter: drop-shadow(0 0 10px #CD853F);"/>
+<br><span style="color: #CD853F;"><strong>Tailwind</strong></span>
 </td>
 </tr>
 </table>
 
-### 🌲 **JUNGLE** // *Backend Systems*
+### **BACKEND BUNKER** // *Server Infrastructure*
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="filter: drop-shadow(0 0 10px #C89B3C);"/>
-<br><span style="color: #C89B3C;"><strong>Python</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="filter: drop-shadow(0 0 10px #8B4513);"/>
+<br><span style="color: #8B4513;"><strong>Python</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="filter: drop-shadow(0 0 10px #0596AA);"/>
-<br><span style="color: #0596AA;"><strong>Node.js</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" style="filter: drop-shadow(0 0 10px #556B2F);"/>
+<br><span style="color: #556B2F;"><strong>Node.js</strong></span>
 </td>
 </tr>
 </table>
 
-### 🔮 **MID LANE** // *Mobile Development*
+### **MOBILE SHELTER** // *Portable Applications*
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
-<br><span style="color: #F0E6D2;"><strong>Kotlin</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" style="filter: drop-shadow(0 0 10px #CD853F);"/>
+<br><span style="color: #CD853F;"><strong>Kotlin</strong></span>
 </td>
 </tr>
 </table>
 
-### 🛡️ **SUPPORT** // *Tools & Utilities*
+### **SUPPLY CACHE** // *Essential Tools & Resources*
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" style="filter: drop-shadow(0 0 10px #0596AA);"/>
-<br><span style="color: #0596AA;"><strong>C++</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" style="filter: drop-shadow(0 0 10px #556B2F);"/>
+<br><span style="color: #556B2F;"><strong>C++</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" style="filter: drop-shadow(0 0 10px #C89B3C);"/>
-<br><span style="color: #C89B3C;"><strong>npm</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" style="filter: drop-shadow(0 0 10px #8B4513);"/>
+<br><span style="color: #8B4513;"><strong>npm</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="48" height="48" alt="pnpm" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
-<br><span style="color: #F0E6D2;"><strong>pnpm</strong></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="48" height="48" alt="pnpm" style="filter: drop-shadow(0 0 10px #CD853F);"/>
+<br><span style="color: #CD853F;"><strong>pnpm</strong></span>
 </td>
 </tr>
 </table>
@@ -170,39 +172,39 @@
 
 ---
 
-## 📊 **RANKED STATS** // *Performance Analytics* <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/>
+## **SURVIVAL STATISTICS** // *Post-Outbreak Analytics* <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="35px"/>
 
 <div align="center">
 
-### ⭐ **SUMMONER STATS**
+### **IMMUNITY RECORDS**
 
-<img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=transparent&title_color=C89B3C&icon_color=F0E6D2&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=transparent&title_color=8B4513&icon_color=CD853F&text_color=A0522D&bg_color=1a1a1a&border_color=8B4513&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
 
-### 🎯 **CHAMPION MASTERY POINTS**
+### **RESOURCE DISTRIBUTION**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=transparent&title_color=C89B3C&text_color=CDBE91&bg_color=0F2027&border_color=C89B3C&hide_border=false&cache_seconds=14400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=transparent&title_color=8B4513&text_color=A0522D&bg_color=1a1a1a&border_color=8B4513&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🗺️ **RIFT MAP** // *Contribution Activity* <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"/>
+## **QUARANTINE ZONE MAP** // *Activity Tracking* <img src="https://media.giphy.com/media/3oEjHWTuLfI3CFbNyo/giphy.gif" width="30px"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=1a1a1a&color=A0522D&line=8B4513&point=CD853F&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🤝 **FRIEND LIST** // *Connect & Collaborate* <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
+## **SURVIVOR NETWORK** // *Safe Zone Contacts* <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60px"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=F0E6D2&color=1E2328&labelColor=C89B3C&border_color=C89B3C)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=F0E6D2&color=1E2328&labelColor=0596AA&border_color=0596AA)](mailto:seu.email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=F0E6D2&color=1E2328&labelColor=C89B3C&border_color=C89B3C)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=CD853F&color=2F4F4F&labelColor=8B4513&border_color=8B4513)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=CD853F&color=2F4F4F&labelColor=556B2F&border_color=556B2F)](mailto:seu.email@exemplo.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=CD853F&color=2F4F4F&labelColor=8B4513&border_color=8B4513)](https://seu-portfolio.com)
 
 </div>
 
@@ -210,20 +212,21 @@
 
 <div align="center">
 
-<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_18.jpg" width="100%" alt="Yasuo Nightbringer"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="The Last of Us Overgrown City"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║  "Agonia, êxtase, paz. Cada passagem tem uma beleza própria."    ║
+║  "Endure and survive. That's all we can do."                     ║
 ║                                                                  ║
+║  "We've got to be strong enough to see this through."           ║
 ║                                                                  ║
-║  - Karthus                                                       ║
+║  - The Last of Us                                                ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=erikcandev&color=C89B3C&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=erikcandev&color=8B4513&style=for-the-badge&label=SURVIVORS+FOUND" alt="Profile Views" />
 
 </div>
 
