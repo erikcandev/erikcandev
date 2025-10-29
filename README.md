@@ -105,23 +105,12 @@ Você pode falar sobre:
 
 <div align="center">
 
-### Estatísticas
+<img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=dark&title_color=4A90E2&icon_color=50C878&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=dark&title_color=4A90E2&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=transparent&title_color=4A90E2&icon_color=50C878&text_color=333333&bg_color=ffffff&border_color=E1E4E8&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erikcandev&theme=dark&background=0d1117&border=30363d&stroke=4A90E2&ring=50C878&fire=50C878&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=4A90E2&sideNums=4A90E2" alt="GitHub Streak" />
 
-### Linguagens Mais Usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=transparent&title_color=4A90E2&text_color=333333&bg_color=ffffff&border_color=E1E4E8&hide_border=false&cache_seconds=14400" alt="Top Languages" />
-
-</div>
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=ffffff&color=333333&line=4A90E2&point=50C878&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=0d1117&color=ffffff&line=4A90E2&point=50C878&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
