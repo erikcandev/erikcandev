@@ -114,7 +114,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 <br><span style="color: #0596AA;"><strong>CSS3</strong></span>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
 <br><span style="color: #F0E6D2;"><strong>Tailwind</strong></span>
 </td>
 </tr>
@@ -156,11 +156,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 <br><span style="color: #C89B3C;"><strong>npm</strong></span>
 </td>
 <td align="center" width="96">
-<svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 0 10px #F0E6D2);">
-<path d="M12 2.5L2 7L12 11.5L22 7L12 2.5Z" fill="#F0E6D2"/>
-<path d="M2 17L12 21.5L22 17" stroke="#F0E6D2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M2 12L12 16.5L22 12" stroke="#F0E6D2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" width="48" height="48" alt="pnpm" style="filter: drop-shadow(0 0 10px #F0E6D2);"/>
 <br><span style="color: #F0E6D2;"><strong>pnpm</strong></span>
 </td>
 </tr>
@@ -190,7 +186,7 @@ CHAMPION_POOL: "React, Python, TypeScript, Node.js"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Domingos&bg_color=0F2027&color=CDBE91&line=C89B3C&point=F0E6D2&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
