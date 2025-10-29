@@ -1,24 +1,8 @@
-<div align="center">
-
-<!-- SUA IMAGEM PERSONALIZADA -->
-<img src="https://raw.githubusercontent.com/erikcandev/erikcandev/main/Hi!.png" width="100%" alt="Banner Personalizado"/>
-
-</div>
 
 ---
 
 ## Sobre mim
-
-<!-- ESPAÇO PARA SUA DESCRIÇÃO PERSONALIZADA -->
-**Escreva aqui sua descrição pessoal...**
-
-Você pode falar sobre:
-- Sua experiência como desenvolvedor
-- Seus projetos favoritos
-- Suas paixões e hobbies
-- Seus objetivos profissionais
-- O que te motiva na programação
-
+Olá! Me chamo Erik Domingos e atualmente estou no segundo semestre de Sistemas de Informação. Estudando pra ser um Dev Full-Stack.
 ---
 
 ## Tecnologias
@@ -108,8 +92,6 @@ Você pode falar sobre:
 <img src="https://github-readme-stats.vercel.app/api?username=erikcandev&show_icons=true&theme=dark&title_color=4A90E2&icon_color=50C878&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false&cache_seconds=14400" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikcandev&layout=compact&theme=dark&title_color=4A90E2&text_color=ffffff&bg_color=0d1117&border_color=30363d&hide_border=false&cache_seconds=14400" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=erikcandev&theme=dark&background=0d1117&border=30363d&stroke=4A90E2&ring=50C878&fire=50C878&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=4A90E2&sideNums=4A90E2" alt="GitHub Streak" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=erikcandev&bg_color=0d1117&color=ffffff&line=4A90E2&point=50C878&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
@@ -120,9 +102,9 @@ Você pode falar sobre:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikdomingoscandido)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candidoerik93@gmail.com)
+
 
 </div>
 
